@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Buildout Eggs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/eggs/distribute-0.6.19-py2.6.egg" />
+      <root url="file://$PROJECT_DIR$/eggs/zc.buildout-1.5.2-py2.6.egg" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
